@@ -72,4 +72,15 @@ flex-shrink: How much the item shrinks relative to the rest
 
 flex-basis: The initial size before growing/shrinking
 
-Task 6:
+Task 6: 
+How can I design a page layout with Flexbox?
+I start by dividing the page into main parts: header, content section, and footer.
+Then, I make each part a flex container by adding display: flex in CSS.
+For the whole page, I set flex-direction: column to stack sections vertically.
+Inside the content section, I use flex-direction: row so cards appear side by side.
+I add flex-wrap: wrap so cards move to next line on smaller screens.
+To align things nicely, I use justify-content and align-items.
+I control the size of cards using the flex shorthand property.
+If needed, I add media queries to change layout on smaller devices, like stacking cards vertically.
+
+- Solution of final webpage is on task6 folder!!!
