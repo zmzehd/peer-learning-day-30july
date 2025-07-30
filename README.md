@@ -59,3 +59,17 @@ These are applied to child elements inside a flex container:
 
 - Challenge: Create a Flexbox Navigation Bar
      solution on task 4 folder
+
+
+Task 5: Flexbox Shorthands
+    The flex property is a shorthand for three separate properties:
+
+flex: <flex-grow> <flex-shrink> <flex-basis>;
+- Definitions:
+flex-grow: How much the item grows relative to the rest
+
+flex-shrink: How much the item shrinks relative to the rest
+
+flex-basis: The initial size before growing/shrinking
+
+Task 6:
