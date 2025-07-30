@@ -1,0 +1,26 @@
+ .container {
+     overflow: hidden;
+     display: flex;
+     /* using flexbox for layout */
+     gap: 10px;
+     /* space between columns */
+ }
+
+ .column {
+     /* float: left; float was removed; */
+     width: 33.33%;
+     padding: 20px;
+     box-sizing: border-box;
+ }
+
+ .one {
+     background-color: #f99;
+ }
+
+ .two {
+     background-color: #9f9;
+ }
+
+ .three {
+     background-color: #99f;
+ }
