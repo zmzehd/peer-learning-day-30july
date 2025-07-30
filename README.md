@@ -5,4 +5,11 @@ Task 1: Understanding Flexbox Basics
 - Why flexbox is better than others?
     Flexbox is better than traditional layout methods like floats or inline-block because it makes alignment, spacing, and responsiveness much easier and cleaner. It allows you to center elements both vertically and horizontally, control direction, reorder items without changing HTML, and automatically adjust layout based on screen size — all with less code and no hacks.
 - challange: change float layout to flexbox layout
-    it is on task1 folder in this repo
+    solution on task 1 folder
+Task 2: Aligning elements
+- How to align elements horizontally and vertically  using Flexbox?
+    To align elements using Flexbox:
+        Main axis (horizontal by default): use justify-content
+        Cross axis (vertical by default): use align-items
+- challenge: Use Flexbox to align items
+    solution on task 2 folder
