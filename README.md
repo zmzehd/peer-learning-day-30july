@@ -13,3 +13,15 @@ Task 2: Aligning elements
         Cross axis (vertical by default): use align-items
 - challenge: Use Flexbox to align items
     solution on task 2 folder
+Task 3: Flex Axes and Properties
+- What is the difference between the main axis and the cross axis in Flexbox?
+    In Flexbox, layout is controlled using two axes:
+        Main Axis: The primary direction in which flex items are laid out.
+            It depends on the flex-direction property.
+            row (default) → main axis is horizontal
+            column → main axis is vertical
+        Cross Axis: The direction perpendicular to the main axis.
+            If flex-direction: row, then cross axis is vertical
+            If flex-direction: column, then cross axis is horizontal
+- challange: Create a Card Layout with Flexbox
+    solution on task 3 folder

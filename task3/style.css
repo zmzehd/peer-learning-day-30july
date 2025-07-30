@@ -1,0 +1,16 @@
+.card-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    /* stack image and text vertically */
+    align-items: center;
+    /* align image on the cross axis */
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
